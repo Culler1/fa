@@ -7,3 +7,6 @@
 # JupyterNotebooks
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+
+# policy output, errors .csvs
+*extracted_data_*.csv
